@@ -1,6 +1,6 @@
 #ifndef __VERSION_H_
 #define __VERSION_H_
 
-#define PSWORLDS_VERSION "@PACKAGE_VERSION@"
+#define PSWORLDS_VERSION "@psworlds_VERSION_MAJOR@.@psworlds_VERSION_MINOR@.@psworlds_VERSION_PATCH@"
 
 #endif

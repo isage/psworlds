@@ -16,3 +16,4 @@ src/Makefile.in
 src/.deps/
 src/psworlds
 src/version.h
+build/
